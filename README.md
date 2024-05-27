@@ -65,7 +65,7 @@ Options:
 2024/05/26  14:35                 0 1.JPG
 2024/05/26  14:36                 0 3a.JPG
 
-(venv) c:\ChangeSeqNum>dir c:\tmp\20240527_164000
+(venv) c:\ChangeSeqNum>dir c:\tmp\20240526_164000
 2024/05/26  14:35                 0 001.jpg
 2024/05/26  14:35                 0 002.jpg
 2024/05/26  14:36                 0 003.jpg
