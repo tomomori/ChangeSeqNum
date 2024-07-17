@@ -1,7 +1,7 @@
 # ChangeSeqNum
 Change file names to sequential numbers
 
-* ファイル名を連番にする
+* 指定したディレクトリにあるファイルのファイル名を連番にする
 * 日時を名前とする新しいサブディレクトリを作成し、元のファイルをコピー後、連番にリネームする
 * 元のファイルには何もしない
 
@@ -71,7 +71,7 @@ Options:
 2024/05/26  14:36                 0 003.jpg
 ```
 
-## 変換リストを表示する(Windowsでの例)
+## 変換リストを表示する(Windowsでの例)(変換処理は行わない)
 ```
 (venv) C:\ChangeSeqNum>python change_seq_num.py --test
 ディレクトリを入力 [c:\ChangeSeqNum]: c:\tmp
